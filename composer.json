@@ -1,0 +1,10 @@
+{
+	"require": {
+		"phpunit/phpunit": "4.8.*@dev"
+	},
+	"autoload": {
+		"classmap": [
+			"app/Libraries"
+		]
+	}
+}
